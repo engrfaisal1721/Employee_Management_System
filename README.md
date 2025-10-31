@@ -19,12 +19,12 @@ The project demonstrates **object-oriented programming (OOP)** concepts such as 
 - Interactive menu to manage employees in a loop.
 
 ---
-
+```
 #### Project Structure
 Employee_Management_System/
 ├── Management_System.ipynb # Main program with interactive menu
 ├── README.md # Project documentation
-
+```
 
 
 #### Classes
